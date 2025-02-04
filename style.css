@@ -1,0 +1,12 @@
+img {
+    height: 200px;
+    object-fit: contain;
+}
+
+#search {
+    margin-top: 15px;
+}
+
+.navbar {
+    padding-bottom: 0px;
+}

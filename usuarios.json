@@ -1,0 +1,65 @@
+[
+    {
+        "id": 8,
+        "nome": "Conjunto de Copos",
+        "valor": 50,
+        "imagem": "img/copos.png",
+        "link": "https://youtube.com"
+    },
+    {
+        "id": 1,
+        "nome": "Conjunto de Pratos",
+        "valor": 50,
+        "imagem": "img/pratos.png",
+        "link": "https://youtube.com"
+    },
+    {
+        "id": 2,
+        "nome": "Fogão",
+        "valor": 750,
+        "imagem": "img/fogao.png",
+        "link": "https://youtube.com"
+    },
+    {
+        "id": 10,
+        "nome": "Jogo de Panelas",
+        "valor": 400,
+        "imagem": "img/panelas.png",
+        "link": "https://youtube.com"
+    },
+    {
+        "id": 5,
+        "nome": "Mesa para 4",
+        "valor": 650,
+        "imagem": "img/mesa.png",
+        "link": "https://youtube.com"
+    },
+    {
+        "id": 4,
+        "nome": "Máquina de Lavar",
+        "valor": 550,
+        "imagem": "img/maquinadelavar.png",
+        "link": "https://youtube.com"
+    },
+    {
+        "id": 6,
+        "nome": "Panela de Pressão",
+        "valor": 120,
+        "imagem": "img/paneladepressao.png",
+        "link": "https://youtube.com"
+    },
+    {
+        "id": 9,
+        "nome": "Viagem",
+        "valor": 1900,
+        "imagem": "img/viagem.png",
+        "link": "https://youtube.com"
+    },
+    {
+        "id": 3,
+        "nome": "liquidificador",
+        "valor": 140,
+        "imagem": "img/liquificador.png",
+        "link": "https://youtube.com"
+    }
+]
